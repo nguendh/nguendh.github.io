@@ -15,10 +15,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Contact:
+    - Github: "https://github.com/nguendh"
+    - Instagram: "https://instagram.com/akabelala"
+    - Linkedin: "https://www.linkedin.com/in/nguendh/"
+#   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -77,11 +78,11 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  vk: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "nguendh.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
