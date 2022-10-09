@@ -41,7 +41,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "nguen.dh@gmail.com"
-  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+#   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: akabelala
   github: nguendh
 #   twitter: daattali
@@ -53,13 +53,13 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: akabelala
+#  instagram: akabelala
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
- telegram: nguendh
+#  telegram: nguendh
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
