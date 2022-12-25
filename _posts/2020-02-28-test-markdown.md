@@ -77,4 +77,4 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 
-[Download Avatar](https://github.com/nguendh/nguendh.github.io/blob/master/assets/img/avatar-icon.png "download")
+[Download Avatar]([https://github.com/nguendh/nguendh.github.io/blob/master/assets/img/avatar-icon.png](https://raw.githubusercontent.com/nguendh/nguendh.github.io/master/assets/img/avatar-icon.png) "download")
